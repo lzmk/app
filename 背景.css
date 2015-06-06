@@ -1,0 +1,27 @@
+body{
+	margin:50px;
+  background-color:#FFB5C5;
+}
+.content{
+  display:inline-block;
+  width:350px;
+  height:239px;
+  margin-right:-4px;
+}
+.play{
+	cursor:pointer;
+	background-color:#FFFFE0;
+}
+div>div{
+  display:block;
+  height:20px;
+}
+div>div>div{
+  width:20px;
+  height:20px;
+  background-color:#FFF
+		;
+  display:inline-block;
+  float:right;
+  margin:2px;
+}
